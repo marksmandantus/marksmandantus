@@ -15,7 +15,7 @@ Fingerprint: 7553CA7F72B2FE15342C66BAECA3D83771D1E249
 <br>
 
 
-[LinkedIn]: https://www.linkedin.com/in/mehmet-kocadag-49370b205/
+[LinkedIn]: (https://www.linkedin.com/in/mehmet-kocadag-49370b205/)
 [TryHackMe]: https://tryhackme.com/p/marksmandantus
 [CTFlearn]: https://ctflearn.com/user/marksmandantus 
 
