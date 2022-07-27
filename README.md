@@ -11,7 +11,7 @@ mDMEYtVD5BYJKwYBBAHaRw8BAQdA42gv2jm7+wG5j+yhLWr8ZVuQE6ttnViiPztz 3BX7BKa0Jm1laG1
 <br>
 -----END PGP PUBLIC KEY BLOCK-----
 
-## Web Application Penetration Tester :tophat:
+## Cyber Security Researcher :tophat:
 <br>
 
 
