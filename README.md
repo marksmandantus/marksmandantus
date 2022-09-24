@@ -43,37 +43,21 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 <br>
 <br>
 
-<summary>
-
-:bulb: Github Stats
-
+<details>
+<summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=marksmandantus&show_icons=true&theme=radical">
-</summary>
+
+
+</details>
 
 <br>
 
-<summary>
+<details>
+<summary> :bulb: Most Used Languages </summary>
 
-:bulb: Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksmandantus&layout=compact" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksmandantus&layout=compact">
-</summary>
-
+</details>
 
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/mehmet-kocadag-49370b205/
-
-[tryhackme]: https://tryhackme.com/p/marksmandantus
-
-
-
