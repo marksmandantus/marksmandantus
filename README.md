@@ -61,3 +61,11 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 <br>
 <br>
+
+
+[linkedin]: https://www.linkedin.com/in/mehmet-kocadag-49370b205/
+
+[tryhackme]: https://tryhackme.com/p/marksmandantus
+
+
+
