@@ -44,15 +44,20 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 <br>
 
 <summary>
-<b>:bulb: Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=marksmandantus&theme=radical">
+
+:bulb: Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=marksmandantus&show_icons=true&theme=radical">
 </summary>
 
-<b>:bulb: Most Used Languages
+<br>
+
 <summary>
+
+:bulb: Most Used Languages
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marksmandantus&layout=compact">
 </summary>
-
 
 
 <br>
