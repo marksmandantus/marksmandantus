@@ -6,9 +6,9 @@
 
 ### Reach out to me
 
-[<img width="25" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
-[<img width="25" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />][tryhackme]
+[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />][tryhackme]
 
 <br>
 <br>
