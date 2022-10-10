@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width=300 autoplay>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 ## Hi there, I'm Mehmet.  :blush:
 
 ### Cyber Security Researcher :tophat:
