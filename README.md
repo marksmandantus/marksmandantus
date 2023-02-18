@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Mehmet.  :blush:
 
-### Cyber Security Researcher :tophat:
+### Cyber Security / Penetration Tester :tophat:
 
 ### Reach out to me
 
