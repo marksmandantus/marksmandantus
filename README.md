@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=marksmandantus&color=blueviolet)
 
-<script src="https://tryhackme.com/badge/224789"></script>
 
 ## Hi there, I'm Mehmet.  :blush:
 
