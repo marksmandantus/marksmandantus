@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=marksmandantus&color=blueviolet)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/marksmandantus.png" alt="TryHackMe" align="right">
 
 ## Hi there, I'm Mehmet.  :blush:
 
@@ -9,7 +10,7 @@
 
 [<img width="30" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 
-[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />][tryhackme] <img src="https://tryhackme-badges.s3.amazonaws.com/marksmandantus.png" alt="TryHackMe">
+[<img width="30" src="https://unpkg.com/simple-icons@v7/icons/tryhackme.svg" align="left" />][tryhackme] 
 
 <br>
 <br>
