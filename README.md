@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=marksmandantus&color=blueviolet)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/marksmandantus.png" alt="TryHackMe">
 
 ## Hi there, I'm Mehmet.  :blush:
 
